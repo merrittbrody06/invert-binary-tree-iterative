@@ -4,7 +4,7 @@ A highly optimised iterative binary tree inversion function written in TypeScrip
 [Recursive Version](https://github.com/merrittbrody06/invert-binary-tree-recursive)
 
 # Premise
-This iterative function minimises stack memory and instead uses heap memory to iterate over a binary tree and invert each node and it's children.
+This iterative function minimises stack memory and instead uses heap memory to iterate over a binary tree and invert each node and its children.
 
 # Complexity
 - Time complexity:
