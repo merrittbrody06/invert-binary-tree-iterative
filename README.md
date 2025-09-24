@@ -1,5 +1,5 @@
 # invert-binary-tree-iterative
-A highly optimised iterative binary tree inversion function written in TypeScript.
+A highly optimised iterative binary tree inversion function written in TypeScript. This was inspired by, and a submission for, the "[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)" problem on [LeetCode](https://leetcode.com/).
 
 [Recursive Version](https://github.com/merrittbrody06/invert-binary-tree-recursive)
 
